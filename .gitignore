@@ -1,0 +1,5 @@
+/.vs
+/.vscode
+/bin
+/net6-odata.csproj.user
+/obj
